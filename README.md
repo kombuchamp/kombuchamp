@@ -3,7 +3,7 @@ My name is Konstantin, I am frontend developer at Yandex
 
 Reach out to me at:
 
-[LinkedIn <img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="16px" /> ](https://www.linkedin.com/in/konstantin-belousov/)
+[LinkedIn](https://www.linkedin.com/in/konstantin-belousov/)
 
 <!--
 **kombuchamp/kombuchamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
