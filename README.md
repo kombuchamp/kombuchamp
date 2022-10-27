@@ -1,5 +1,6 @@
 ### Hello there! 💬
-My name is Konstantin, I am frontend developer at Yandex
+My name is Konstantin,
+I'm a frontend developer
 
 Reach out to me at:
 
